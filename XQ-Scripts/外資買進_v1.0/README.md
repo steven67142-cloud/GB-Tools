@@ -45,10 +45,8 @@ Important
 
 <!-- 統一更新 -->
 
-## 探吉島遊戲
+## 探吉島／入社
 
-綁定推薦碼 `@GB` 後可開啟腳本描述中的遊戲網址，或直接前往：
+須先綁定 XQ 推薦碼 **`@GB`**，才能執行本腳本並在**腳本描述**取得入社／遊戲連結。
 
-https://script.google.com/macros/s/AKfycbyMAhsbeg7n2hoIHFM84au3Rs1JpTkqMAIWvSVWhjuspuNIgTRTA_u4SgNY0PpNTAbI/exec
-
-建立／登入：遊戲名稱＋6位數密碼。僅供研究娛樂，非投資建議。
+未綁定推薦碼者無法執行本腳本，亦無法由本頁公開取得網址。
