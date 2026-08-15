@@ -1,7 +1,16 @@
 # 探吉島宣傳截圖
 
-請放已去敏截圖（遮掉玩家名稱、憑證網址、token、社群密碼）。
+已去敏：地圖玩家名稱模糊、快訊列遮蓋。
 
-建議檔名：
-
-- `tanji-01.png` … `tanji-10.png`
+| 檔名 | 內容 |
+|------|------|
+| tanji-01.png | 美食地圖搜尋 |
+| tanji-02.png | 旅程擲骰／用餐 |
+| tanji-03.png | 機場 |
+| tanji-04.png | 積分商店 |
+| tanji-05.png | 美食卡／伴手禮 |
+| tanji-06.png | 娛樂城 |
+| tanji-07.png | 遊樂場 |
+| tanji-08.png | 股聚積 |
+| tanji-09.png | 大神文章 |
+| tanji-10.png | 股 Buy 日報 |
