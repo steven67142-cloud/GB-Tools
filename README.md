@@ -11,8 +11,8 @@
 
 ## 探吉島遊戲
 
-宣傳截圖與入遊戲流程見 [XQ-Scripts README](XQ-Scripts/README.md#探吉島美食物語遊戲宣傳)。
-綁定推薦碼 `@GB` → 執行[外資買進](XQ-Scripts/外資買進_v1.0/)（描述／README 含遊戲網址）→ 建立／登入角色。
+宣傳截圖見 [XQ-Scripts README](XQ-Scripts/README.md#探吉島美食物語遊戲宣傳)。  
+須綁定推薦碼 **`@GB`** → 執行[外資買進](XQ-Scripts/外資買進_v1.0/) → 於**腳本描述**取得入社／遊戲連結（網址不公開於本站）。
 
 ## 免責聲明
 
