@@ -44,3 +44,11 @@ Important
 使用者應自行判斷並承擔相關投資及交易風險。
 
 <!-- 統一更新 -->
+
+## 探吉島遊戲
+
+綁定推薦碼 `@GB` 後可開啟腳本描述中的遊戲網址，或直接前往：
+
+https://script.google.com/macros/s/AKfycbyMAhsbeg7n2hoIHFM84au3Rs1JpTkqMAIWvSVWhjuspuNIgTRTA_u4SgNY0PpNTAbI/exec
+
+建立／登入：遊戲名稱＋6位數密碼。僅供研究娛樂，非投資建議。
