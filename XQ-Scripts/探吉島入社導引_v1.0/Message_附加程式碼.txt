@@ -1,4 +1,0 @@
-// 若編譯器支援 Message，放在選股腳本「最開頭」（保留你原本選股邏輯）
-// 若不支援 Message，略過本檔，只改「描述」欄即可
-
-Message("【探吉島】遊戲網址 https://script.google.com/macros/s/AKfycbyMAhsbeg7n2hoIHFM84au3Rs1JpTkqMAIWvSVWhjuspuNIgTRTA_u4SgNY0PpNTAbI/exec");
