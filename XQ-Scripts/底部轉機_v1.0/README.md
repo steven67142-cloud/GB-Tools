@@ -1,8 +1,8 @@
-<!-- notice-layout:bind-GB-upper -->
+<!-- notice-layout:fullwidth-GB -->
 底部轉機 v1.0
 Important
 
-2. 其他指標：需綁定XQ推薦碼@GB才能執行腳本。
+2. 其他指標：需綁定XQ推薦碼＠GB才能執行腳本。
 
 腳本介紹
 本腳本用於尋找評價位置相對合理、財務結構具一定安全性，且近期出現營運或價格動能改善跡象的股票。

@@ -1,8 +1,8 @@
-<!-- notice-layout:bind-GB-upper -->
+<!-- notice-layout:fullwidth-GB -->
 周轉率成交量 v1.0
 Important
 
-2. 其他指標：需綁定XQ推薦碼@GB才能執行腳本。
+2. 其他指標：需綁定XQ推薦碼＠GB才能執行腳本。
 
 腳本介紹
 本腳本用於尋找市場熱度逐步升高、成交量同步放大的股票，協助篩選短線交易與當沖觀察標的。

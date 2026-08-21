@@ -1,8 +1,8 @@
-<!-- notice-layout:bind-GB-upper -->
+<!-- notice-layout:fullwidth-GB -->
 小資董事力挺 v1.0
 Important
 
-2. 其他指標：需綁定XQ推薦碼@GB才能執行腳本。
+2. 其他指標：需綁定XQ推薦碼＠GB才能執行腳本。
 
 腳本介紹
 本腳本用於尋找股價較容易參與，且近期董監持股出現增加跡象的股票，作為內部人信心觀察工具。

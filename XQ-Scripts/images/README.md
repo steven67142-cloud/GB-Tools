@@ -1,8 +1,8 @@
-<!-- notice-layout:bind-GB-upper -->
+<!-- notice-layout:fullwidth-GB -->
 # 圖片資源
 
 > 1. 真雲鳳凰：免費腳本不須綁定，可直接下載使用。
-> 2. 其他指標：需綁定XQ推薦碼@GB才能執行腳本。
+> 2. 其他指標：需綁定XQ推薦碼＠GB才能執行腳本。
 
 
 ## 台指期指標示意
