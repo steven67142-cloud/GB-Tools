@@ -4,7 +4,7 @@
 
 | 檔名 | 內容 |
 |------|------|
-| txo_battle_overview_demo.png | 戰情總覽V2＋大戶攻擊力＋自訂ADX 同框示意 |
+| txo_battle_overview_demo.png | 台指期看盤介面示意（亦放在 `台指期看盤介面/`） |
 
 ## 探吉島宣傳截圖
 
