@@ -1,4 +1,4 @@
-<!-- notice-layout:v4 -->
+<!-- notice-layout:free-only -->
 # 真雲鳳凰 v1.0
 
 ## 簡介
