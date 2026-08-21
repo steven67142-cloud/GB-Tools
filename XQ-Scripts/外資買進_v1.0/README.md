@@ -1,4 +1,4 @@
-<!-- notice-layout:v3 -->
+<!-- notice-layout:v4 -->
 外資買進 v1.0
 Important
 

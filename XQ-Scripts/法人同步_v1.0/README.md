@@ -1,4 +1,4 @@
-<!-- notice-layout:v3 -->
+<!-- notice-layout:v4 -->
 法人同步 v1.0
 Important
 
