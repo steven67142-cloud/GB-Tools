@@ -88,7 +88,7 @@
 
 → [台指期看盤介面](./台指期看盤介面/)
 
-![台指期看盤介面示意](./台指期看盤介面/txo_battle_overview_demo.png)
+![台指期看盤介面示意](./台指期看盤介面/txo_battle_overview_demo_v2.png)
 
 ## 已發布腳本
 
