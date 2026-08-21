@@ -1,3 +1,4 @@
+<!-- notice-layout:v3 -->
 長波段選股 v1.0
 Important
 
