@@ -1,8 +1,8 @@
-<!-- notice-layout:bind-GB-upper -->
+<!-- notice-layout:fullwidth-GB -->
 長波段選股 v1.0
 Important
 
-2. 其他指標：需綁定XQ推薦碼@GB才能執行腳本。
+2. 其他指標：需綁定XQ推薦碼＠GB才能執行腳本。
 
 腳本介紹
 本腳本結合價格動能、法人籌碼與市場流動性，協助篩選可能具備中長波段發展條件的股票。
