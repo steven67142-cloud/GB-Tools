@@ -1,4 +1,4 @@
-<!-- notice-layout:bind-gb -->
+<!-- notice-layout:bind-GB-upper -->
 # VCP 波動收縮選股 v1.0
 
 > [!IMPORTANT]
