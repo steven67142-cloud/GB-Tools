@@ -1,4 +1,4 @@
-<!-- notice-layout:v4 -->
+<!-- notice-layout:bind-gb -->
 # 圖片資源
 
 > 1. 真雲鳳凰：免費腳本不須綁定，可直接下載使用。

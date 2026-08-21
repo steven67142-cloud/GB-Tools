@@ -1,4 +1,4 @@
-<!-- notice-layout:v4 -->
+<!-- notice-layout:bind-gb -->
 小資董事力挺 v1.0
 Important
 

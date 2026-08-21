@@ -1,4 +1,4 @@
-<!-- notice-layout:v4 -->
+<!-- notice-layout:bind-gb -->
 # XQ 推薦碼 `@GB`
 
 > [!IMPORTANT]
