@@ -9,7 +9,7 @@
 
 | 檔名 | 內容 |
 |------|------|
-| txo_battle_overview_demo.png | 台指期看盤介面示意（亦放在 `台指期看盤介面/`） |
+| txo_battle_overview_demo_v2.png | 台指期看盤介面示意（亦放在 `台指期看盤介面/`） |
 
 ## 探吉島宣傳截圖
 

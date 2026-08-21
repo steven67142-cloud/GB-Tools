@@ -6,7 +6,7 @@
 
 台指期分 K「看盤介面」三件套：主圖戰情＋大戶攻擊力＋ADX。建議同框使用。
 
-![台指期看盤介面示意](./txo_battle_overview_demo.png)
+![台指期看盤介面示意](./txo_battle_overview_demo_v2.png)
 
 ## 內含檔案
 
@@ -15,7 +15,7 @@
 | `自訂_戰情總覽V2_v1.0_推薦碼GB.xsb` | 主圖：趨勢／主力／掛單 → 決策提示 |
 | `盤中大戶即時攻擊力_v1.0_推薦碼GB.xsb` | 副圖：內外盤淨攻擊力 |
 | `自訂_ADX_v1.0_推薦碼GB.xsb` | 副圖：強趨勢 vs 區間震盪 |
-| `txo_battle_overview_demo.png` | 同框示意圖 |
+| `txo_battle_overview_demo_v2.png` | 同框示意圖 |
 
 ## 安裝方式
 
