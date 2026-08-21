@@ -1,4 +1,4 @@
-<!-- notice-layout:v4 -->
+<!-- notice-layout:bind-gb -->
 # 台指期看盤介面
 
 > [!IMPORTANT]
