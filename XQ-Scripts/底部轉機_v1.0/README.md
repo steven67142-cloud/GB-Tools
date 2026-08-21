@@ -1,4 +1,4 @@
-<!-- notice-layout:bind-gb -->
+<!-- notice-layout:bind-GB-upper -->
 底部轉機 v1.0
 Important
 

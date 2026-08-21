@@ -1,4 +1,4 @@
-<!-- notice-layout:bind-gb -->
+<!-- notice-layout:bind-GB-upper -->
 # XQ 選股／指標腳本
 
 本區提供 XQ 選股腳本、台指期指標腳本與相關工具下載。

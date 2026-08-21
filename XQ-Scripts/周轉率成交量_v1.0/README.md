@@ -1,4 +1,4 @@
-<!-- notice-layout:bind-gb -->
+<!-- notice-layout:bind-GB-upper -->
 周轉率成交量 v1.0
 Important
 
