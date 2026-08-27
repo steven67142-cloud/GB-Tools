@@ -1,0 +1,67 @@
+// 名稱：TXO_盤中大戶即時攻擊力_v1.1
+// 說明：適用於台指期當日分K圖；±1500為攻堅／打壓，中間帶細分詞彙
+// 使用權限：作者本人或已綁定推薦碼 @GB
+
+Input: Threshold(1500, "趨勢判斷門檻張數");
+Input: SoftBand(500, "觀望細分帶張數");
+
+Var: OutVol(0), InVol(0), NetPower(0);
+Var: HitBull(False), HitBear(False);
+
+// 1. 抓取台指期當日累積外盤量(主動買盤)與內盤量(主動賣盤)
+OutVol = GetField("外盤量", "D");
+InVol  = GetField("內盤量", "D");
+
+// 2. 計算即時淨買賣力道 (外盤 - 內盤)
+NetPower = OutVol - InVol;
+
+// 新交易日重置「曾觸及」標記
+If Date <> Date[1] Then Begin
+    HitBull = False;
+    HitBear = False;
+End;
+
+If NetPower >= Threshold Then HitBull = True;
+If NetPower <= -Threshold Then HitBear = True;
+
+// ==================================================
+// 使用權限驗證：作者本人或已綁定推薦碼 @GB
+// ==================================================
+if (UserID <> "STEVEN67142") and
+   (ReferralCode("@GB") = false) then
+begin
+    RaiseRunTimeError(
+        "本腳本僅限已綁定 XQ 推薦碼 @GB 的使用者使用。"
+    );
+end;
+
+// 3. 繪製圖表
+Plot1(NetPower, "大戶淨攻擊力");
+Plot2(0, "零軸線");
+
+// 4. 動態變色與標題提醒（Threshold 不變；中間帶加詞彙）
+If NetPower >= Threshold Then Begin
+    SetPlotColor(1, RGB(255, 50, 50));
+    SetPlotLabel(1, "【主力偏多攻堅】尋找買點");
+End Else If NetPower <= -Threshold Then Begin
+    SetPlotColor(1, RGB(50, 205, 50));
+    SetPlotLabel(1, "【主力偏空打壓】尋找賣點");
+End Else If HitBull and (HitBear = False) Then Begin
+    SetPlotColor(1, RGB(255, 160, 100));
+    SetPlotLabel(1, "【偏多轉弱】防甩轎");
+End Else If HitBear and (HitBull = False) Then Begin
+    SetPlotColor(1, RGB(144, 238, 144));
+    SetPlotLabel(1, "【偏空轉弱】防殺低反彈");
+End Else If HitBull and HitBear Then Begin
+    SetPlotColor(1, RGB(220, 220, 120));
+    SetPlotLabel(1, "【多空拉鋸】方向未明");
+End Else If NetPower >= SoftBand Then Begin
+    SetPlotColor(1, RGB(255, 180, 180));
+    SetPlotLabel(1, "【主力偏多觀望】惜售／承接中");
+End Else If NetPower <= -SoftBand Then Begin
+    SetPlotColor(1, RGB(180, 230, 180));
+    SetPlotLabel(1, "【主力偏空觀望】賣壓未歇");
+End Else Begin
+    SetPlotColor(1, RGB(200, 200, 200));
+    SetPlotLabel(1, "【主力籌碼觀望中】方向未明");
+End;
